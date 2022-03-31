@@ -358,5 +358,6 @@ Put the link to your app here:
 
   8. Below, provide a link to your GitHub repo with this set of Weekly Exercises. 
 
+Main page: [here](https://github.com/ebergin12/Exercise05_Bergin)
 
-
+md file: [here](https://github.com/ebergin12/Exercise05_Bergin/blob/main/05_exercises_new.md)
